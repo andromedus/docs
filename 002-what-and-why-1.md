@@ -6,7 +6,7 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga  
 
 ## What we are building  
 
-We are building a web application that will mine Facebook and other aspects of an individual’s digital life and allow users to create something in remembrance of the deceased. As a 3rd party application, Epilogue will not operate under Facebook. The application will transfer Facebook data of the deceased and memorial owners will be able to organize the data into a presentable manner. Users will interact with the software by creating and editing memorials and stories as a way to remember their loved one(s). Memorials can be finalized so they do not have to be constantly maintained.
+We are building a web application that will mine Facebook and other aspects of an individual’s digital life and allow users to create something in remembrance of the deceased. As a third party application, Epilogue will not operate under Facebook. The application will transfer Facebook data of the deceased and memorial owners will be able to organize the data into a presentable manner. Users will interact with the software by creating and editing memorials and stories as a way to remember their loved one(s). Memorials can be finalized so they do not have to be constantly maintained.
 
 ## Why we are building it
 
