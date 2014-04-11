@@ -10,7 +10,7 @@ The user will have:
 + an intention to contribute to or create memorials
 + a Facebook account
 + a browser that supports HTML5 and JavaScript
-+ an internet capable device
++ an internet-capable device
 
 ## Functional requirements
 
