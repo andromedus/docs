@@ -24,7 +24,7 @@ The user will have:
 + be able to create a memorial
 + be able to remove a memorial they administer
 + be able to contribute to content within a memorial (e.g. text post)
-+be able to invite other contributors
++ be able to invite other contributors
 
 ### Technology requirements
 + CSS - Bootstrap
