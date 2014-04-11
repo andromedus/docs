@@ -48,7 +48,7 @@ We will use Asana for project management.  
 
 Specifically, we will keep files in GitHub repositories owned by our sponsor, "Epilogue."  
 
-We will keep documentation in the "docs" repository.  
+We will keep documentation in the "docs" repository. 
 
 ## Miscellaneous
 
