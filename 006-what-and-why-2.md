@@ -4,7 +4,9 @@ Team Andromedus  
 
 Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga  
 
-## What we are building  We are building a standalone web application that will gather information from a person’s digital life (Facebook, initially, then other social media/digital presences) and allow users to create a memorial in remembrance of the deceased. The application will process and present the information collected about the deceased in the form of a private online pages. Users will be able to edit the memorial and add their own stories as a way to remember their loved one, as well as have the option to finalize it into a more permanent state.
+## What we are building  
+
+We are building a standalone web application that will gather information from a person’s digital life (Facebook, initially, then other social media/digital presences) and allow users to create a memorial in remembrance of the deceased. The application will process and present the information collected about the deceased in the form of a private online pages. Users will be able to edit the memorial and add their own stories as a way to remember their loved one, as well as have the option to finalize it into a more permanent state.
 
 ## Why we are building it
 
