@@ -4,7 +4,6 @@
 
 Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga
 
-
 ### SPRINT 1 BACKLOG
 
 ### Stories
@@ -12,20 +11,20 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga
 + Story Model
 + Stories Controller
 + Story View
-	++ create.blade.php
-	++ index.blade.php
-	++ edit.blade.php
-	++ show.blade.php
+++ create.blade.php
+++ index.blade.php
+++ edit.blade.php
+++ show.blade.php
 
 ### Photos
 + Photos Table
 + Photos Model
 + Photos View
-	++ create.blade.php
-	++ index.blade.php
-	++ edit.blade.php
-	++ show.blade.php
-	++ remove.blade.php
+++ create.blade.php
+++ index.blade.php
+++ edit.blade.php
+++ show.blade.php
+++ remove.blade.php
 + PhotosController
 
 ### Invitations
@@ -48,10 +47,10 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga
 +Videos Model
 +Videos Controller
 +Videos View
-	++ create.blade.php
-	++ index.blade.php
-	++ edit.blade.php
-	++ show.blade.php
+++ create.blade.php
+++ index.blade.php
+++ edit.blade.php
+++ show.blade.php
 
 
 
