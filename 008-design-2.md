@@ -59,27 +59,27 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga
 + Central database <-> Data preprocessor, content management system <-> Website front end
 
 ##### Models
-++ Invitation
-+ + Memorial
-++  Photo
-+ + Profile
-+ + Story
-+ + User
++ Invitation
++ Memorial
++  Photo
++ Profile
++ Story
++ User
 
 ### What attributes and methods will they have?
 
 + Our framework handles these attributes and methods automatically based on a CRUD design pattern, and creates the models automatically from our database tables.
 ++ Epilogue user attributes
-	+++  User ID
-++  Facebook user attributes
-	+++  User ID
-++  Deceased person’s attributes
-	+++  Memorial ID
-++  Memorial attributes
-	+++  Memorial ID
-++  Photos attributes
-	+++  Memorial ID
-	+++ Photo ID
++++ User ID
+++ Facebook user attributes
++++ User ID
+++ Deceased person’s attributes
++++  Memorial ID
+++ Memorial attributes
++++ Memorial ID
+++ Photos attributes
++++ Memorial ID
++++ Photo ID
 
 ### What controllers will you make?
 
