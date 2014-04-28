@@ -2,8 +2,8 @@ SPRINT 1 REPORT
 
 (SPRINT 1 BACKLOG):
 
-### Stories
-+ Stories Table
+## Stories
++Stories Table
 + Story Model
 + Stories Controller
 + Story View
@@ -12,8 +12,8 @@ SPRINT 1 REPORT
 	++ edit.blade.php
 	++ show.blade.php
 
-### Photos
-+ Photos Table
+## Photos
++Photos Table
 + Photos Model
 + Photos View
 	++ create.blade.php
