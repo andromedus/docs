@@ -11,7 +11,7 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga
 + Invitations Table
 + Statuses Table
 + Memorial Table
-+ User_Memorial Join Table
++ UserMemorial Join Table
 
 ## Model
 + Invitation
@@ -22,45 +22,14 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga
 + User
 
 ## View
-+ Videos
-	++ create.blade.php
-	++ index.blade.php
-	++ edit.blade.php
-	++ show.blade.php
-+ Photos
-	++ create.blade.php
-	++ index.blade.php
-	++ edit.blade.php
-	++ show.blade.php
-	++ remove.blade.php
-+ Status
-++ add.blade.php
-	++ index.blade.php
-	++ remove.blade.php
-+ Invitations
-++ index.blade.php
-+ Collaborators
-++ add.blade.php
-	++ index.blade.php
-	++ remove.blade.php
-+ Story
-	++ create.blade.php
-	++ index.blade.php
-	++ edit.blade.php
-	++ show.blade.php
-+ Dashboard
-	++ active.blade.php
-	++ finalized.blade.php
-	++ index-new.blade.php
-	++ index.blade.php
-	++ invitation.blade.php
-+ Memorials
-	++ create.blade.php
-	++ index.blade.php
-	++ edit.blade.php
-	++ show.blade.php
-	++ preview.blade.php
-	++ stories.blade.php
++ __Videos__: create.blade.php, index.blade.php, edit.blade.php, show.blade.php
++ __Photos__: create.blade.php, index.blade.php, edit.blade.php, show.blade.php, remove.blade.php
++ __Status__: add.blade.php, index.blade.php, remove.blade.php
++ __Invitations__: index.blade.php
++ __Collaborators__: add.blade.php, index.blade.php, remove.blade.php
++ __Story__: create.blade.php, index.blade.php, edit.blade.php, show.blade.php
++ __Dashboard__: active.blade.php, finalized.blade.php, index-new.blade.php, index.blade.php, invitation.blade.php
++ __Memorials__: create.blade.php, index.blade.php, edit.blade.php, show.blade.php, preview.blade.php, stories.blade.php
 
 ## Controllers
 + BaseController
