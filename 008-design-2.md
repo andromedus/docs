@@ -43,13 +43,13 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga
 + mySQL relational database
 
 ##### Database
-++ Video Table
-++ Stories Table
-++ Photos Table
-++ Invitations Table
-++ Statuses Table
-++ Memorial Table
-++ User_Memorial Join Table
++ Video Table
++ Stories Table
++ Photos Table
++ Invitations Table
++ Statuses Table
++ Memorial Table
++ User_Memorial Join Table
 
 
 ### What are the other parts of your software? For example, for an MVC app: What models will you make? 
