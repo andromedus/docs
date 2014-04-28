@@ -87,16 +87,16 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga
 + Memorials, profiles, users, media content, and invitations will all have database tables to manage the information and relationships they represent.
 
 ##### Controllers
-++  BaseController
-++ CollaboratorsController
-++ Dashboard Controller
-++ HomeController
-++ LoginController
-++ MemorialsController
-++ PhotosController
-++ StoriesController
-++ StatusController
-++ UsersController
++ BaseController
++ CollaboratorsController
++ Dashboard Controller
++ HomeController
++ LoginController
++ MemorialsController
++ PhotosController
++ StoriesController
++ StatusController
++ UsersController
 
 ### What methods will they have?
 
