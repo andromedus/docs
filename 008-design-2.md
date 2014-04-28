@@ -69,17 +69,17 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga
 ## What attributes and methods will they have?
 
 + Our framework handles these attributes and methods automatically based on a CRUD design pattern, and creates the models automatically from our database tables.
-++ Epilogue user attributes
-+++ User ID
-++ Facebook user attributes
-+++ User ID
-++ Deceased person’s attributes
-+++  Memorial ID
-++ Memorial attributes
-+++ Memorial ID
-++ Photos attributes
-+++ Memorial ID
-+++ Photo ID
++ Epilogue user attributes
++ User ID
++ Facebook user attributes
++ User ID
++ Deceased person’s attributes
++  Memorial ID
++ Memorial attributes
++ Memorial ID
++ Photos attributes
++ Memorial ID
++ Photo ID
 
 ## What controllers will you make?
 
