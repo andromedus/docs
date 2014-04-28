@@ -49,7 +49,7 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga
 + Invitations Table
 + Statuses Table
 + Memorial Table
-+ User_Memorial Join Table
++ User Memorial Join Table
 
 
 ## What are the other parts of your software? For example, for an MVC app: What models will you make? 
