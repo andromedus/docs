@@ -9,7 +9,7 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga
 + Stories Table
 + Story Model
 + Stories Controller
-+ Story View: create.blade.php, index.blade.php, edit.blade.php, show.blade.php
++ Story View: create.blade.php, edit.blade.php
 
 ### Photos
 + Photos Table
