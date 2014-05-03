@@ -6,9 +6,13 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga
 
 
 ### Initial Tasks
-	+ Kathleen: In charge of implementing photos feature
 	+ Alexis: In co-charge of Collaborators & Invitations (with Grace)
+	+ Eric Tian: In charge of Photos, Videos
+	+ HQ Pham-Nguyen: In charge of Photos, Videos
+	+ Kathleen: In charge of implementing photos feature
+	
 ### Completed
+
 	+ Photos:
 + Delete function for photos work
 + Redirecting from memorial view to photos page link works 
