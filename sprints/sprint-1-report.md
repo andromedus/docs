@@ -17,18 +17,21 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga
 	+ Delete function for photos work
 	+ Redirecting from memorial view to photos page link works 
 	+ Included file upload function
-
+	+ After upload the user is redirected to the photos index page
+	+ Photos successfuly store in local folder
+	+ Photo table includes file path
 
 + Invites
 	+ Send an Invite
 	+ Receive an Invite (Accept or Reject)
 	+ View received invites
-	+ Hide Invitations button when no pending invites have been received.
+	+ Hide Invitations button when no pending invites have been received
 
 + Collaborators
 	+ Join user to a memorial once the invitation is accepted
 	+ Remove the join table row and invite row for that pair if user leaves the memorial
-	+View current and pending collaborators
+	+ View current and pending collaborators
+	+ Functioning button to leave a memorial if a collaborator (non-admin)
 	+ Remove collaborator if memorial admin
 
 + Stories
@@ -42,10 +45,7 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga
 
 ### Not Completed
 + Photos:
-	+ Cannot successfully upload a photo
 	+ No gallery to display uploaded photos
-	+ Leave Group (Collaborators)
-	+ Functional until recent UI update was pushed. In need of bug fix.
 + Stories:
 	+ Story model needs to be completed
 + Videos:
