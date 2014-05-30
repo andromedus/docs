@@ -27,7 +27,7 @@ Alexis Hoshino, Eric Tian, HQ Pham-Nguyen, Kathleen Enverga  
 + Bug Hunt with Six
 + Went through page to page in Epilogue to find some routing issues, page inconsistencies, dummy information.
 + Assign issues to each individual team member 
-####May 28:
+#### May 28
 + Bug hunt with Jed
 + Show Jed our current progress
 + Presented and discussed mockups that everyone created
