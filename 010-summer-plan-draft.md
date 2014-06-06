@@ -32,5 +32,7 @@ How can team members without these skills get them?
 
 ### Timeline
 
-| | Alexis | Eric | HQ | Kathleen
-Learning Tasks | Learn how to create and  manage communication via a “Contact Us” feature on the site,  | Finish reading the “Codebright” Laravel book. Learn about bootstrap by tinkering with it and read over and understand the current codebase in full context. | Learn more HTML/CSS by creating things with it. Still want to finish reading the “Code Bright” book Eric shared with everyone at the beginning of the quarter. | Read upon different project technologies, focusing on HTML/CSS/PHP. Also, learn more about the laravel framework and bootstrap. Find the right source for learning the material.
+| | Alexis | Eric | HQ | Kathleen |
+| :-------------: |:-------------:| :-----:|:-------------:| :-----:|
+Learning Tasks | Learn how to create and  manage communication via a “Contact Us” feature on the site,  | Finish reading the “Codebright” Laravel book. Learn about bootstrap by tinkering with it and read over and understand the current codebase in full context. | Learn more HTML/CSS by creating things with it. Still want to finish reading the “Code Bright” book Eric shared with everyone at the beginning of the quarter. | Read upon different project technologies, focusing on HTML/CSS/PHP. Also, learn more about the laravel framework and bootstrap. Find the right source for learning the material. |
+| :-------------: |:-------------:| :-----:|:-------------:| :-----:|
